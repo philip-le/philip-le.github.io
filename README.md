@@ -9,4 +9,4 @@ Welcome to my home page
 
 In 2017, I defended my Ph.D. thesis on ‘Payoff Allocation Methods for Several Operational Research Games’. The project developed strategies and algorithms for finding fair & stable payoff allocations using Algorithmic Game Theory, Combinatorial Optimisation, Statistical Analysis. Several application areas of this work include Energy, Supply Chain Management, and Network Design.
 
-Outside academia, I also had several projects with insurance firm (Ages UK), IT consultancy (IBM), and aviation (FDS Ltd, L3Harris).
+Outside academia, I also had several projects with insurance firm (Ages UK), IT consultancy (IBM), and aviation (FDS Ltd - L3Harris).
