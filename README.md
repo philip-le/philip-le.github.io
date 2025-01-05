@@ -4,7 +4,7 @@ Welcome to my home page
 
 <img src="./images/PhilipLe.jpg" width="300">
 
-Currently, I am a __Principal Data Scientist__ at [CooperVision](https://coopervision.co.uk) in the UK. 
+Currently, I am a __Principal Data Scientist__ at [CooperVision](https://coopervision.co.uk) in the UK. Here is my [*Linkedin page*](https://www.linkedin.com/in/phuochoangle/), go ahead to send me a message if you want to connect.
 
 My work focuses on delivering value of AI, Data Science and Machine Automation into the area of Heathcare, Education and Industrial Applications.
 Previously, I led the Data Science team of a non-profit organization [*STEAM for Vietnam*](https://steamforvietnam.org/) to provide __free world-class MOOC education__ (Science, Technology, Engineering, Arts, and Math) for Vietnamese children.
